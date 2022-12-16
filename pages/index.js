@@ -146,7 +146,7 @@ export default function Home() {
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-1/3 flex-1 ">
-              <Link href={"https://asadbek1portfolio.vercel.app/"}>
+              
                 <Image
                   className="rounded-lg object-cover cursor-pointer"
                   width={"100%"}
@@ -155,10 +155,8 @@ export default function Home() {
                   src={web3}
                   alt="image"
                 />
-              </Link>
             </div>
             <div className="basis-1/3 flex-1">
-              <Link href={"https://1metaverse.vercel.app/"}>
                 <Image
                   className="rounded-lg object-cover cursor-pointer"
                   width={"100%"}
@@ -167,10 +165,8 @@ export default function Home() {
                   src={web2}
                   alt="image"
                 />
-              </Link>
             </div>
             <div className="basis-1/3 flex-1">
-              <Link href={"https://h00bank1.netlify.app/"}>
                 <Image
                   className="rounded-lg object-cover cursor-pointer"
                   width={"100%"}
@@ -179,10 +175,8 @@ export default function Home() {
                   src={web4}
                   alt="image"
                 />
-              </Link>
             </div>
             <div className="basis-1/3 flex-1">
-              <Link href={"https://1lexus.netlify.app/"}>
                 <Image
                   className="rounded-lg object-cover cursor-pointer"
                   width={"100%"}
@@ -191,7 +185,6 @@ export default function Home() {
                   src={web6}
                   alt="image"
                 />
-              </Link>
             </div>
             <div className="basis-1/3 flex-1">
               <Image
